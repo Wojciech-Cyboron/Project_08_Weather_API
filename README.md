@@ -1,1 +1,2 @@
-# Project_08_Weather_API
+# Project_Weather_API
+Short project to learn JS and API
